@@ -1,2 +1,15 @@
 /Code/API/.env
 /Code/API/node_modules
+/Code/API/uploads/
+/Code/API/dist/
+
+# Frontend
+Code/Frontend/node_modules/
+Code/Frontend/dist/
+Code/Frontend/.env.local
+Code/Frontend/.env.development.local
+Code/Frontend/.env.production.local
+
+# AI Tools
+.claude/
+.cursor/

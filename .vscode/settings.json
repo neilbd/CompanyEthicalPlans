@@ -1,0 +1,4 @@
+{
+  "cursor.chat.defaultModel": "claude-sonnet-4-6",
+  "cursor.composer.defaultModel": "claude-sonnet-4-6"
+}
